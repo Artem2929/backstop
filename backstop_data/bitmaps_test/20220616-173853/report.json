@@ -1,0 +1,70 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_BackstopJS_Homepage_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20220616-173853\\backstop_default_BackstopJS_Homepage_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_BackstopJS_Homepage_0_document_0_desktop.png",
+        "label": "BackstopJS Homepage",
+        "misMatchThreshold": 0.1,
+        "url": "https://otomistrz.pl",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "error": "Reference file not found C:\\Users\\USER\\Новая папка\\Desktop\\backStopjs\\backstop_data\\bitmaps_reference\\backstop_default_BackstopJS_Homepage_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_BackstopJS_Homepage_0_document_1_phone.png",
+        "test": "..\\bitmaps_test\\20220616-173853\\backstop_default_BackstopJS_Homepage_0_document_1_phone.png",
+        "selector": "document",
+        "fileName": "backstop_default_BackstopJS_Homepage_0_document_1_phone.png",
+        "label": "BackstopJS Homepage",
+        "misMatchThreshold": 0.1,
+        "url": "https://otomistrz.pl",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "phone",
+        "error": "Reference file not found C:\\Users\\USER\\Новая папка\\Desktop\\backStopjs\\backstop_data\\bitmaps_reference\\backstop_default_BackstopJS_Homepage_0_document_1_phone.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_BackstopJS_newpage_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20220616-173853\\backstop_default_BackstopJS_newpage_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_BackstopJS_newpage_0_document_0_desktop.png",
+        "label": "BackstopJS newpage",
+        "misMatchThreshold": 0.1,
+        "url": "https://otomistrz.pl/lokalizacja-oklejanie-mebli/",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "error": "Reference file not found C:\\Users\\USER\\Новая папка\\Desktop\\backStopjs\\backstop_data\\bitmaps_reference\\backstop_default_BackstopJS_newpage_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_BackstopJS_newpage_0_document_1_phone.png",
+        "test": "..\\bitmaps_test\\20220616-173853\\backstop_default_BackstopJS_newpage_0_document_1_phone.png",
+        "selector": "document",
+        "fileName": "backstop_default_BackstopJS_newpage_0_document_1_phone.png",
+        "label": "BackstopJS newpage",
+        "misMatchThreshold": 0.1,
+        "url": "https://otomistrz.pl/lokalizacja-oklejanie-mebli/",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "phone",
+        "error": "Reference file not found C:\\Users\\USER\\Новая папка\\Desktop\\backStopjs\\backstop_data\\bitmaps_reference\\backstop_default_BackstopJS_newpage_0_document_1_phone.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}
